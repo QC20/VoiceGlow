@@ -2,7 +2,6 @@
 
 VoiceGlow - Jonas Kjeldmand Jensen 2023
 
-
 */
 
 // If your target is limited in memory remove this macro to save 10K RAM
